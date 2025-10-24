@@ -1,0 +1,412 @@
+{
+  "main": {
+    "id": "93e0e26eeaed16af",
+    "type": "split",
+    "children": [
+      {
+        "id": "d50884aa04c89d63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16dc6478f3ed5e90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress Soft Task.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Progress Soft Task"
+            }
+          },
+          {
+            "id": "dcf72284dad41ee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. eJPT/1. Assessment Methodologies/Active & Passive Recon/Active recon.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Active recon"
+            }
+          },
+          {
+            "id": "ec98cabd0dad8a96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. eJPT/1. Assessment Methodologies/Active & Passive Recon/Passive Recon.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Passive Recon"
+            }
+          },
+          {
+            "id": "92184f8ef05dd613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. eJPT/1. Assessment Methodologies/MetaSploit/Payloads.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Payloads"
+            }
+          },
+          {
+            "id": "6c7fc93e06800352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. eJPT/1. Assessment Methodologies/Services/01-FTP (21)⬇️.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "01-FTP (21)⬇️"
+            }
+          },
+          {
+            "id": "1c6c202459f86aac",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e77fe82ce60040b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "1b37ef2181e05881",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
+            "id": "73b7ae83a872e132",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2. SOC L1/4n6/Cheatsheets/Linux-4n6-Cheatsheet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Linux-4n6-Cheatsheet"
+            }
+          },
+          {
+            "id": "76150efd903ceebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. eJPT/1. Assessment Methodologies/Shells/Bind Shells.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bind Shells"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e595c0d3b7febaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "83131673f60c98de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c305fe378ab29719",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5783ba8080c88c2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ab1e1a2632da0f56",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "right": {
+    "id": "c2d6b8395a9635b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a39788e31eea9681",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5f240f7e6085c83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Assessment Methodologies/Services/SNMP (161).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SNMP (161)"
+            }
+          },
+          {
+            "id": "97ba76967ba9223d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. eJPT/1. Assessment Methodologies/Shells/Reverse Shells.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Reverse Shells"
+            }
+          },
+          {
+            "id": "240202524c5f6141",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8d87ee1ac84d4b9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1b37ef2181e05881",
+  "lastOpenFiles": [
+    "1. eJPT/1. Assessment Methodologies/Tools/nmap/nmap 👁️.md",
+    "1. eJPT/1. Assessment Methodologies/Tools/Directory bruteforce/GoBuster.md",
+    "1. eJPT/1. Assessment Methodologies/Services/02-SSH (22).md",
+    "1. eJPT/1. Assessment Methodologies/Services/01-FTP (21)⬇️.md",
+    "1. eJPT/1. Assessment Methodologies/Tools/Hydra.md",
+    "1. eJPT/1. Assessment Methodologies/MetaSploit/Payloads.md",
+    "1. eJPT/1. Assessment Methodologies/MetaSploit/msfvenom⚕️.md",
+    "1. eJPT/1. Assessment Methodologies/MetaSploit/MSF Auxiliary Module.md",
+    "1. eJPT/1. Assessment Methodologies/MetaSploit/Armitage.md",
+    "1. eJPT/1. Assessment Methodologies/MetaSploit/!ntro MSF.md",
+    "1. eJPT/1. Assessment Methodologies/Active & Passive Recon/Passive Recon.md",
+    "1. eJPT/1. Assessment Methodologies/Active & Passive Recon/Active recon.md",
+    "Progress Soft Task.md",
+    "2. SOC L1/4n6/Cheatsheets/Linux-4n6-Cheatsheet.pdf",
+    "1. eJPT/1. Assessment Methodologies/Shells/Bind Shells.md",
+    "1. eJPT/1. Assessment Methodologies/Shells/webshell.md",
+    "BH.md",
+    "HTB machines/Soulmate.md",
+    "1. eJPT/1. Assessment Methodologies/Tools/nmap/Useful Scans.md",
+    "HTB machines",
+    "9. Attachments/Pasted image 20250908120450.png",
+    "secudev.me.md",
+    "2. SOC L1/Wireshark/3- HTTP-S & DNS Analysis.md",
+    "2. SOC L1/TShark/TShark Advanced Filtering.md",
+    "3. eCIR/Glossary/Playbooks in SOC.md",
+    "1. eJPT/1. Assessment Methodologies/Shells/Reverse Shells.md",
+    "CodeTwo.md",
+    "1. eJPT/4. Post Exploitation/1. Linux/Privilege Escalation/SUID SGID.md",
+    "1. eJPT/1. Assessment Methodologies/Shells/meterpreter.md",
+    "9. Attachments/Pasted image 20250816180431.png",
+    "9. Attachments/Pasted image 20250816164509.png",
+    "9. Attachments/Pasted image 20250814191317.png",
+    "2. SOC L1/4n6/Cheatsheets/THM_Registry-4n6-Cheatsheet.pdf",
+    "9. Attachments/Pasted image 20250727153544.png",
+    "2. SOC L1/EZTools",
+    "2. SOC L1/Incidents Playbooks",
+    "9. Attachments/Pasted image 20250723163548.png",
+    "9. Attachments/Pasted image 20250723162511.png",
+    "2. SOC L1/Email Analysis/Email Security",
+    "2. SOC L1/Email Analysis/Phishing Prevention",
+    "2. SOC L1/Email Analysis",
+    "3. eCIR/Glossary",
+    "9. Attachments/Pasted image 20250721181854.png",
+    "2. SOC L1/4n6/Cheatsheets",
+    "9. Attachments/Pasted image 20250715202029.png",
+    "9. Attachments/Pasted image 20250708144738.png",
+    "Untitled.canvas",
+    "2. Host PenTesting/Linux/Untitled.canvas"
+  ]
+}

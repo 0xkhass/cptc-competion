@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"1. Assessment Methodologies/Tools\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
+    },
+    {
+      "query": "path:\"1. Assessment Methodologies/Services\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711803
+      }
+    },
+    {
+      "query": "path:\"2. Host Exploitation/Windows\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1679861
+      }
+    },
+    {
+      "query": "path:\"2. Host Exploitation/Linux\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5102413
+      }
+    },
+    {
+      "query": "path:\"2. Host Exploitation\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"4. Post Exploitation/2. Windows\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4934647
+      }
+    },
+    {
+      "query": "path:\"4. Post Exploitation/1. Linux\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10878751
+      }
+    },
+    {
+      "query": "path:\"4. Post Exploitation\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16071997
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 1.42708333333333,
+  "lineSizeMultiplier": 0.9421875,
+  "collapse-forces": true,
+  "centerStrength": 0.713541666666667,
+  "repelStrength": 20,
+  "linkStrength": 0.302083333333333,
+  "linkDistance": 30,
+  "scale": 0.11660891579457622,
+  "close": false
+}

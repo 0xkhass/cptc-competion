@@ -1,0 +1,73 @@
+
+### **Filter: "contains"**  
+
+
+| Filter          | **contains**                                                                                                                                 |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Type**        | Comparison Operator                                                                                                                          |
+| **Description** | Search a value inside packets. It is case-sensitive and provides similar functionality to the "Find" option by focusing on a specific field. |
+| **Example**     | Find all "Apache" servers.                                                                                                                   |
+| **Workflow**    | List all HTTP packets where packets' "server" field contains the "Apache" keyword.                                                           |
+| **Usage**       | `http.server contains "Apache"`                                                                                                              |
+
+---
+
+### **Filter: "matches"**
+
+
+| Filter      | **matches**                                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------------------------- |
+| Type        | Comparison Operator                                                                                           |
+| Description | Search a pattern of a regular expression. It is case insensitive, and complex queries have a margin of error. |
+| **Example** | Find all .php and .html pages.                                                                                |
+| Workflow    | List all HTTP packets where packets' "host" fields match keywords ".php" or ".html".                          |
+| **Usage**   | `http.host matches "\.(php\|html)"`                                                                           |
+
+---
+
+### **Filter: "in"**
+
+| Filter      | **in**                                                                         |
+| ----------- | ------------------------------------------------------------------------------ |
+| Type        | Set Membership                                                                 |
+| Description | Search a value or field inside of a specific scope/range.                      |
+| Example     | Find all packets that use ports 80, 443 or 8080.                               |
+| Workflow    | List all TCP packets where packets' "port" fields have values 80, 443 or 8080. |
+| Usage       | `tcp.port in {80 443 8080}`                                                    |
+
+### **Filter: "upper"**
+
+
+| Filter      | **upper**                                                                                                  |
+| ----------- | ---------------------------------------------------------------------------------------------------------- |
+| Type        | Function                                                                                                   |
+| Description | Convert a string value to uppercase.                                                                       |
+| Example     | Find all "APACHE" servers.                                                                                 |
+| Workflow    | Convert all HTTP packets' "server" fields to uppercase and list packets that contain the "APACHE" keyword. |
+| Usage       | `upper(http.server) contains "APACHE"`                                                                     |
+
+---
+
+### **Filter: "lower"**
+
+
+| Filter      | **lower**                                                                                                       |
+| ----------- | --------------------------------------------------------------------------------------------------------------- |
+| Type        | Function                                                                                                        |
+| Description | Convert a string value to lowercase.                                                                            |
+| Example     | Find all "apache" servers.                                                                                      |
+| Workflow    | Convert all HTTP packets' "server" fields info to lowercase and list packets that contain the "apache" keyword. |
+| **Usage**   | `lower(http.server) contains "apache"`                                                                          |
+
+---
+
+### **Filter: "string"**
+
+
+| Filter      | **string**                                                                               |
+| ----------- | ---------------------------------------------------------------------------------------- |
+| Type        | Function                                                                                 |
+| Description | Convert a non-string value to a string.                                                  |
+| Example     | Find all frames with odd numbers.                                                        |
+| Workflow    | Convert all "frame number" fields to string values, and list frames end with odd values. |
+| Usage       | `string(frame.number) matches "[13579]$"`                                                |

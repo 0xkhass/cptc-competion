@@ -1,0 +1,154 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🦈",
+      "🐽",
+      "LoWireshark",
+      "💣",
+      "🎣"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "1. eJPT/1. Assessment Methodologies/MetaSploit": "LoMetasploit",
+  "1. eJPT/1. Assessment Methodologies/Shells": {
+    "iconName": "LiTerminal",
+    "iconColor": "#28f07f"
+  },
+  "1. eJPT/1. Assessment Methodologies/WordLists": {
+    "iconName": "LiClipboardList",
+    "iconColor": "#dbb700"
+  },
+  "1. eJPT/1. Assessment Methodologies/Services": {
+    "iconName": "LiSettings",
+    "iconColor": "#c971f9"
+  },
+  "1. eJPT/1. Assessment Methodologies/Tools": "🛠",
+  "1. eJPT/1. Assessment Methodologies/MetaSploit/msfvenom⚕️.md": "⚕",
+  "1. eJPT/1. Assessment Methodologies/WordLists/Wordlists.md": {
+    "iconName": "LiClipboardList",
+    "iconColor": "#fbff00"
+  },
+  "1. eJPT/1. Assessment Methodologies/Tools/Hydra.md": "🐉",
+  "1. eJPT/1. Assessment Methodologies/Tools/Nessus.md": {
+    "iconName": "LiHexagon",
+    "iconColor": "#00a8f0"
+  },
+  "1. eJPT/1. Assessment Methodologies/Tools/PrivEsc Tools": {
+    "iconName": "LiCircleFadingArrowUp",
+    "iconColor": "#309c02"
+  },
+  "1. eJPT/1. Assessment Methodologies/Tools/nmap": "LoNmapLogo",
+  "1. eJPT/1. Assessment Methodologies/Services/01-FTP (21)⬇️.md": {
+    "iconName": "LiDownload",
+    "iconColor": "#08963e"
+  },
+  "1. eJPT/1. Assessment Methodologies/Services/02-SSH (22).md": {
+    "iconName": "LiTerminalSquare",
+    "iconColor": "#58be04"
+  },
+  "1. eJPT/1. Assessment Methodologies/Services/03-SMTP (25).md": {
+    "iconName": "LiMail",
+    "iconColor": "#dbbe06"
+  },
+  "1. eJPT/1. Assessment Methodologies/Services/05-Microsoft IIS (80,443).md": {
+    "iconName": "LiServerCrash",
+    "iconColor": "#363cdd"
+  },
+  "1. eJPT/1. Assessment Methodologies/Services/06-DNS (53).md": "🌐",
+  "1. eJPT/1. Assessment Methodologies/Services/04-WebDAV (80,443).md": {
+    "iconName": "LiSubtitles",
+    "iconColor": "#00fbff"
+  },
+  "1. eJPT/1. Assessment Methodologies/Services/09-SMB (445).md": "📂",
+  "1. eJPT/1. Assessment Methodologies/Services/12-MySQL (3306).md": {
+    "iconName": "LiDatabase",
+    "iconColor": "#ad7f01"
+  },
+  "1. eJPT/1. Assessment Methodologies/Services/11-MSSQL (1433).md": {
+    "iconName": "LiDatabaseZap",
+    "iconColor": "#e48c44"
+  },
+  "1. eJPT/1. Assessment Methodologies/Services/15-WinRM (5985,5986).md": {
+    "iconName": "LiSquareM",
+    "iconColor": "#018de4"
+  },
+  "1. eJPT/1. Assessment Methodologies/Services/14-RDP (3389).md": {
+    "iconName": "LiSquareMousePointer",
+    "iconColor": "#e90101"
+  },
+  "1. eJPT/1. Assessment Methodologies/Services/HTTP (80)": {
+    "iconName": "LiServer",
+    "iconColor": "#0786d5"
+  },
+  "1. eJPT/1. Assessment Methodologies/Tools/nmap/nmap 👁️.md": "👁",
+  "1. eJPT/4. Post Exploitation": "💣",
+  "1. eJPT/4. Post Exploitation/1. Linux": "LoLinuxSvgrepoCom",
+  "1. eJPT/4. Post Exploitation/2. Windows": "LoWindows2012",
+  "1. eJPT/4. Post Exploitation/3. Pivoting": {
+    "iconName": "LiMove3d",
+    "iconColor": "#00f5cc"
+  },
+  "1. eJPT/4. Post Exploitation/Transfer files to Windows & Linux Targets.md": {
+    "iconName": "LiShare",
+    "iconColor": "#00ff88"
+  },
+  "1. eJPT/4. Post Exploitation/Cleaning artifacts": {
+    "iconName": "LiEraser",
+    "iconColor": "#e69100"
+  },
+  "1. eJPT/4. Post Exploitation/1. Linux/1. Linux.md": "LoLinuxSvgrepoCom",
+  "1. eJPT/4. Post Exploitation/1. Linux/Privilege Escalation": {
+    "iconName": "LiArrowBigUpDash",
+    "iconColor": "#52e006"
+  },
+  "1. eJPT/4. Post Exploitation/2. Windows/Privilege Escalation": {
+    "iconName": "LiArrowBigUpDash",
+    "iconColor": "#03e21d"
+  },
+  "1. eJPT/3. Network PenTesting": {
+    "iconName": "LiNetwork",
+    "iconColor": "#00a3cc"
+  },
+  "1. eJPT/2. Host Exploitation": {
+    "iconName": "LiUsers2",
+    "iconColor": "#00b36e"
+  },
+  "1. eJPT/2. Host Exploitation/Linux": "LoLinuxPenguin",
+  "1. eJPT/2. Host Exploitation/Windows": "LoWindowsGeneric",
+  "1. eJPT/2. Host Exploitation/Windows/Alternate Data Streams.md": {
+    "iconName": "LiMerge",
+    "iconColor": "#c62424"
+  },
+  "1. eJPT/2. Host Exploitation/Windows/Exploits & Vulnerability": "⛔",
+  "1. eJPT/2. Host Exploitation/Windows/Windows.md": "LoWindows2012",
+  "1. eJPT/2. Host Exploitation/Linux/Exploits & Vulnerability": "⛔",
+  "2. SOC L1/Snort": "🐽",
+  "2. SOC L1/Wireshark": "LoWireshark",
+  "2. SOC L1/TShark": "🦈",
+  "2. SOC L1/Email Analysis/Social Engineering/Phishing🎣.md": "🎣"
+}

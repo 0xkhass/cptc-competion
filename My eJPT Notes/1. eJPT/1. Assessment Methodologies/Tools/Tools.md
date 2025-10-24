@@ -1,0 +1,31 @@
+%% Begin Waypoint %%
+- **[[1. eJPT/1. Assessment Methodologies/Tools/Tools]]**
+	- [[Binwalk]]
+	- **Brute Force**
+		- [[Hashcat]]
+		- [[John The Ripper]]
+	- [[crackmapexec]]
+	- **Directory bruteforce**
+		- [[Dirb]]
+		- [[GoBuster]]
+		- [[wfuzz]]
+	- [[Hydra]]
+	- [[John the Ripper]]
+	- [[Nessus]]
+	- [[Netcat]]
+	- **nmap**
+		- [[netdiscover]]
+		- [[nmap 👁️]]
+		- **Scan Types**
+			- [[Ping Sweeping]]
+		- [[Useful Scans]]
+	- [[Powershell Empire]]
+	- **PrivEsc Tools**
+		- [[UACMe]]
+		- [[wesng]]
+	- **To Exploit WebDAV**
+		- [[Cadaver]]
+		- [[Davtest]]
+	- [[1. eJPT/1. Assessment Methodologies/Tools/Tools]]
+
+%% End Waypoint %%
